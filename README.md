@@ -78,14 +78,4 @@ Data persists between browser sessions.
 - Safari
 - Opera
 
-## License
 
-This project is open source and available for educational purposes.
-
-## Author
-
-NexTEA Website Project
-
----
-
-Enjoy your tea! ☕
