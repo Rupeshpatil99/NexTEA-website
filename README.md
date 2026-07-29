@@ -62,20 +62,4 @@ nescafe/
 - **Export Orders**: Click "Export All Orders to Excel" button on cart page
 - Files are downloaded in CSV format (Excel-compatible)
 
-## Database
-
-The project uses browser LocalStorage as a database:
-- **Cart Data**: Stored in `localStorage.cart`
-- **Orders Data**: Stored in `localStorage.orders`
-
-Data persists between browser sessions.
-
-## Browser Compatibility
-
-- Chrome (recommended)
-- Firefox
-- Edge
-- Safari
-- Opera
-
 
